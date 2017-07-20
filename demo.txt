@@ -1,1 +1,2 @@
 Afegint alguna cosa a demo.txt
+Afegint-ho localment.
