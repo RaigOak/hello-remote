@@ -1,2 +1,2 @@
-Afegint alguna cosa a demo.txt
+Afegint alguna cosa a demo.txt de forma remota.
 Afegint-ho localment per segona vegada.
