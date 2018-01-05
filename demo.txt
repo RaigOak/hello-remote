@@ -1,2 +1,2 @@
 Afegint alguna cosa a demo.txt
-Afegint-ho localment.
+Afegint-ho localment per segona vegada.
